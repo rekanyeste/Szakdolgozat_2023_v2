@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc2"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:id="@+id/bejelentkezes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:gravity="center"
+        android:text="Bejelentkezés"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/felhasznalonev"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bejelentkezes"
+        android:layout_margin="10dp"
+        android:background="#50ffffff"
+        android:hint="Felhasználónév"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:drawableLeft="@drawable/round_person_24"
+        android:drawablePadding="20dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/jelszo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/felhasznalonev"
+        android:background="#50ffffff"
+        android:layout_margin="10dp"
+        android:drawableLeft="@drawable/round_password_24"
+        android:drawablePadding="20dp"
+        android:hint="Jelszó"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:inputType="textPassword"
+        tools:ignore="MissingConstraints" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bejelentkezesgomb"
+        android:layout_below="@id/jelszo"
+        android:text="Belépés"
+        android:backgroundTint="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        tools:ignore="MissingConstraints" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/elfelejtett"
+        android:layout_below="@id/bejelentkezesgomb"
+        android:text="Elfelejtette a jelszavát?"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        tools:ignore="MissingConstraints" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ikonokSzovege"
+        android:text="Bejelentkezés, mint"
+        android:textColor="@color/white"
+        android:layout_above="@id/ikonok"
+        android:layout_centerHorizontal="true"
+        tools:ignore="MissingConstraints" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ikonok"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_margin="20dp"
+            android:src="@drawable/facebook"/>
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_margin="20dp"
+            android:src="@drawable/android"/>
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_margin="20dp"
+            android:src="@drawable/google"/>
+    </LinearLayout>
+
+</RelativeLayout>
