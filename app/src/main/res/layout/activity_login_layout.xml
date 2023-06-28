@@ -15,7 +15,7 @@
         android:gravity="center"
         android:text="Bejelentkezés"
         android:textColor="@color/white"
-        android:textSize="25dp"
+        android:textSize="30dp"
         android:textStyle="bold"
         tools:ignore="MissingConstraints" />
 
@@ -51,15 +51,18 @@
         tools:ignore="MissingConstraints" />
 
     <com.google.android.material.button.MaterialButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/bejelentkezesgomb"
+        android:layout_width="392dp"
+        android:layout_height="wrap_content"
         android:layout_below="@id/jelszo"
-        android:text="Belépés"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
         android:backgroundTint="@color/black"
-        android:layout_centerHorizontal="true"
-        android:layout_margin="20dp"
+        android:text="Belépés"
         tools:ignore="MissingConstraints" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -70,6 +73,22 @@
         android:layout_centerHorizontal="true"
         android:layout_margin="20dp"
         tools:ignore="MissingConstraints" />
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/regisztacio"
+        android:layout_below="@id/elfelejtett"
+        android:text="Ingyenes regisztráció!"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:background="#70ffffff"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        tools:ignore="MissingConstraints"
+        />
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
