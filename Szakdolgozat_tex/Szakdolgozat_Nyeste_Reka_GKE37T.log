@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.7)  29 JUN 2023 23:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.7)  30 JUN 2023 00:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -458,26 +458,39 @@ File: ../../Desktop/regisztracio_diagram.png Graphic file (type png)
 <use ../../Desktop/regisztracio_diagram.png>
 Package pdftex.def Info: ../../Desktop/regisztracio_diagram.png  used on input 
 line 39.
-(pdftex.def)             Requested size: 241.84842pt x 423.92963pt.
+(pdftex.def)             Requested size: 227.62204pt x 398.98004pt.
  [4 <../../Desktop/regisztracio_diagram.png>]
 <../../Desktop/elfelejtett_jelszo.png, id=65, 583.17876pt x 522.95375pt>
 File: ../../Desktop/elfelejtett_jelszo.png Graphic file (type png)
 <use ../../Desktop/elfelejtett_jelszo.png>
 Package pdftex.def Info: ../../Desktop/elfelejtett_jelszo.png  used on input li
-ne 50.
+ne 51.
 (pdftex.def)             Requested size: 241.84842pt x 216.87015pt.
- [5 <../../Desktop/elfelejtett_jelszo.png>] [6
+ [5 <../../Desktop/elfelejtett_jelszo.png>] [6]
+<../../Desktop/kidolgozando_tervek.png, id=76, 764.8575pt x 242.9075pt>
+File: ../../Desktop/kidolgozando_tervek.png Graphic file (type png)
+<use ../../Desktop/kidolgozando_tervek.png>
+Package pdftex.def Info: ../../Desktop/kidolgozando_tervek.png  used on input l
+ine 65.
+(pdftex.def)             Requested size: 455.24408pt x 144.57808pt.
 
-] (./Szakdolgozat_Nyeste_Reka_GKE37T.aux)
+Overfull \hbox (14.22635pt too wide) in paragraph at lines 65--66
+ [][] 
+ []
+
+[7 <../../Desktop/kidolgozando_tervek.png>] [8
+
+]
+(./Szakdolgozat_Nyeste_Reka_GKE37T.aux)
 Package rerunfilecheck Info: File `Szakdolgozat_Nyeste_Reka_GKE37T.out' has not
  changed.
 (rerunfilecheck)             Checksum: FE5205737141A8DDDFE4542660C63D28;993.
  ) 
 Here is how much of TeX's memory you used:
- 11771 strings out of 474968
- 194031 string characters out of 5780081
- 555521 words of memory out of 5000000
- 33052 multiletter control sequences out of 15000+600000
+ 11788 strings out of 474968
+ 194541 string characters out of 5780081
+ 555586 words of memory out of 5000000
+ 33065 multiletter control sequences out of 15000+600000
  522131 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,81p,897b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -485,10 +498,10 @@ Here is how much of TeX's memory you used:
 mf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type
 1/public/lm/lmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12
 .pfb>
-Output written on Szakdolgozat_Nyeste_Reka_GKE37T.pdf (6 pages, 141814 bytes).
+Output written on Szakdolgozat_Nyeste_Reka_GKE37T.pdf (8 pages, 160579 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
