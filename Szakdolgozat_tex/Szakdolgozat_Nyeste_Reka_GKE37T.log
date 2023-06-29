@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.7)  29 JUN 2023 21:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.7)  29 JUN 2023 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -457,7 +457,7 @@ e_Reka_GKE37T.toc)
 ] (./Szakdolgozat_Nyeste_Reka_GKE37T.aux)
 Package rerunfilecheck Info: File `Szakdolgozat_Nyeste_Reka_GKE37T.out' has not
  changed.
-(rerunfilecheck)             Checksum: 5EA37E3A8BB43E882F07C4D9128A5F9A;827.
+(rerunfilecheck)             Checksum: FE5205737141A8DDDFE4542660C63D28;993.
  ) 
 Here is how much of TeX's memory you used:
  11740 strings out of 474968
@@ -466,12 +466,12 @@ Here is how much of TeX's memory you used:
  33029 multiletter control sequences out of 15000+600000
  522131 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,81p,321b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,81p,703b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2022/tex
 mf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type
 1/public/lm/lmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12
 .pfb>
-Output written on Szakdolgozat_Nyeste_Reka_GKE37T.pdf (4 pages, 107194 bytes).
+Output written on Szakdolgozat_Nyeste_Reka_GKE37T.pdf (4 pages, 109685 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
