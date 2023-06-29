@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.7)  29 JUN 2023 22:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.7)  29 JUN 2023 23:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -311,25 +311,25 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 (./Szakdolgozat_Nyeste_Reka_GKE37T.aux)
 \openout1 = `Szakdolgozat_Nyeste_Reka_GKE37T.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-Package hyperref Info: Link coloring OFF on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+Package hyperref Info: Link coloring OFF on input line 6.
  (./Szakdolgozat_Nyeste_Reka_GKE37T.out) (./Szakdolgozat_Nyeste_Reka_GKE37T.out
 )
 \@outlinefile=\write3
@@ -370,40 +370,40 @@ Package hyperref Info: Link coloring OFF on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
 .
 (c:/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<ot1.cmap>>
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
 .
 
 (c:/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oml.cmap>>
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-5.
+6.
 
 (c:/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )<<oms.cmap>>
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-5.
+6.
 
 (c:/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 6.
 <<omx.cmap>>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 5.
+(Font)              <6> on input line 6.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> OMX/cmex/m/n on input line 5.
+(Font)                  OMX/lmex/m/n --> OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> OMX/cmex/m/n on input line 5.
+(Font)                  OMX/lmex/m/n --> OMX/cmex/m/n on input line 6.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -434,7 +434,7 @@ LaTeX Info: Redefining \mit on input line 578.
 <eszterhazy-logo-hu.pdf, id=29, 256.07971pt x 88.04292pt>
 File: eszterhazy-logo-hu.pdf Graphic file (type pdf)
 <use eszterhazy-logo-hu.pdf>
-Package pdftex.def Info: eszterhazy-logo-hu.pdf  used on input line 12.
+Package pdftex.def Info: eszterhazy-logo-hu.pdf  used on input line 13.
 (pdftex.def)             Requested size: 256.07907pt x 88.0427pt.
  [1
 
@@ -452,7 +452,21 @@ e_Reka_GKE37T.toc)
 1. fejezet.
 [3
 
-] [4] [5
+]
+<../../Desktop/regisztracio_diagram.png, id=57, 613.29124pt x 1075.01625pt>
+File: ../../Desktop/regisztracio_diagram.png Graphic file (type png)
+<use ../../Desktop/regisztracio_diagram.png>
+Package pdftex.def Info: ../../Desktop/regisztracio_diagram.png  used on input 
+line 39.
+(pdftex.def)             Requested size: 241.84842pt x 423.92963pt.
+ [4 <../../Desktop/regisztracio_diagram.png>]
+<../../Desktop/elfelejtett_jelszo.png, id=65, 583.17876pt x 522.95375pt>
+File: ../../Desktop/elfelejtett_jelszo.png Graphic file (type png)
+<use ../../Desktop/elfelejtett_jelszo.png>
+Package pdftex.def Info: ../../Desktop/elfelejtett_jelszo.png  used on input li
+ne 50.
+(pdftex.def)             Requested size: 241.84842pt x 216.87015pt.
+ [5 <../../Desktop/elfelejtett_jelszo.png>] [6
 
 ] (./Szakdolgozat_Nyeste_Reka_GKE37T.aux)
 Package rerunfilecheck Info: File `Szakdolgozat_Nyeste_Reka_GKE37T.out' has not
@@ -460,10 +474,10 @@ Package rerunfilecheck Info: File `Szakdolgozat_Nyeste_Reka_GKE37T.out' has not
 (rerunfilecheck)             Checksum: FE5205737141A8DDDFE4542660C63D28;993.
  ) 
 Here is how much of TeX's memory you used:
- 11741 strings out of 474968
- 193046 string characters out of 5780081
- 556418 words of memory out of 5000000
- 33029 multiletter control sequences out of 15000+600000
+ 11771 strings out of 474968
+ 194031 string characters out of 5780081
+ 555521 words of memory out of 5000000
+ 33052 multiletter control sequences out of 15000+600000
  522131 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,81p,897b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -471,10 +485,10 @@ Here is how much of TeX's memory you used:
 mf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type
 1/public/lm/lmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12
 .pfb>
-Output written on Szakdolgozat_Nyeste_Reka_GKE37T.pdf (5 pages, 111134 bytes).
+Output written on Szakdolgozat_Nyeste_Reka_GKE37T.pdf (6 pages, 141814 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2,6 +2,7 @@
 \usepackage[T1]{fontenc}
 \PassOptionsToPackage{defaults=hu-min}{magyar.ldf}
 \usepackage[magyar]{babel}
+\usepackage{graphicx}
 \begin{document}
 	\institute{Matematikai és Informatikai Intézet}
 	\title{Programozási nyelveket tanító alkalmazás}
@@ -19,7 +20,39 @@
 	
 	Programom nyomon követését a GitHub és GitKraken verziókövető rendszerekkel valósítottam meg. Azért ezeket választottam, mert jól ismerem a működésüket, könnyű bennük visszakeresni az esetlegesen felmerülő hibáimat és gyorsan is lehet azokat kijavítani, valamint összehangoltan lehet dolgozni az Android Studioval is, annak beépített funkcióinak a segítségével. 
 	
+	\newpage
 	\section{Képernyő tervek}
+	Amint elindítom a programot, betöltés után a kezdőoldal töltődik be, aminek több funkciója is van.
+	
+	\begin{flushleft}
+		1. Bejelentkezés
+	\end{flushleft}
+
+	Az oldalra csak úgy lehet bejelentkezni, hogy az előzetes regisztráció megtörtént és létrehoztunk egy felhasználónév és jelszó párosítást, ami jelen van az adatbázisban is. Amennyiben már rendelkezünk ezekkel, a Belépés gombra kattintva tovább léphetünk az applikációra.
+	
+	\begin{flushleft}
+		2. Regisztráció
+	\end{flushleft}
+
+	\begin{figure}[th!]
+		\centering
+		\includegraphics[width=8.5cm]{../../Desktop/regisztracio_diagram}
+		\caption{Regisztációs oldal terve}
+		\label{abra-regisztraciodiagram}
+	\end{figure}
+	
+	\newpage
+	\begin{flushleft}
+		3. Elfelejtett jelszó
+	\end{flushleft}
+	\begin{figure}[th!]
+		\centering
+		\includegraphics[width=8.5cm]{../../Desktop/elfelejtett_jelszo}
+		\caption{Elfelejtett jelszó terve}
+		\label{abra-elfelejtettjelszo}
+	\end{figure}
+	
+	
 	\section{Adatbázis tervek}
 	\section{Kidolgozandó terveim}
 	\begin{thebibliography}{1}
